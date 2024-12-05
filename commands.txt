@@ -1,0 +1,10 @@
+git init
+git status
+git add .
+git rm -cached
+git log --oneline
+git log
+git commit -m "msg"
+git push origin branchName 
+git checkout -b new_copy_branchName
+
