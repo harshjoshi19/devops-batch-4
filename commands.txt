@@ -7,4 +7,5 @@ git log
 git commit -m "msg"
 git push origin branchName 
 git checkout -b new_copy_branchName
-
+git clone 
+git remote -v
